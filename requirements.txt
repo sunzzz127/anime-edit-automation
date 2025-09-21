@@ -1,0 +1,5 @@
+moviepy>=1.0.3
+librosa>=0.10.1
+numpy>=1.23
+soundfile>=0.12
+audioread>=3.0.0
