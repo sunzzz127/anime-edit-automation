@@ -21,7 +21,7 @@ Inputs
 - One source video (.mp4, .mkv, .mov, etc.)
 - One music track (.mp3, .wav, .m4a, etc.)
 
-Author: You!
+Author: Vub
 License: MIT
 """
 
